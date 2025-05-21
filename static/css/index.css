@@ -134,4 +134,9 @@ body {
 }
 
 
-
+.carousel-image {
+  max-width: 60%; 
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
