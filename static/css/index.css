@@ -145,6 +145,6 @@ body {
   width: 50% !important;   /* Or use percentage: width: 50%; */
   height: auto !important;   /* Maintain aspect ratio */
   max-width: 100%;
-  display: block;
+  display: inline-block;
   margin: 0 auto;
 }
