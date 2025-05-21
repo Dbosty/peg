@@ -142,6 +142,6 @@ body {
 }
 
 .video-small {
-  width: 50%;   /* Or use percentage: width: 50%; */
-  height: auto;   /* Maintain aspect ratio */
+  width: 50% !important;   /* Or use percentage: width: 50%; */
+  height: auto !important;   /* Maintain aspect ratio */
 }
